@@ -1,2 +1,3 @@
-# bj50-rsi-3e0f0152
-Unlisted BJ50 RSI lab dashboard (token-gated). Do not index.
+# BJ50 RSI Dashboard (unlisted)
+
+Open with the secret `?k=` link only. Not for indexing.
